@@ -1,3 +1,12 @@
 many lines added
 
+<<<<<<< HEAD
 done changes
+done chgannges 1st
+done chnages
+
+
+jfekfjl
+=======
+done changes
+>>>>>>> parent of 1adc475 (commited 2nd)
