@@ -10,3 +10,7 @@ jfekfjl
 =======
 done changes
 >>>>>>> parent of 1adc475 (commited 2nd)
+
+
+
+some chnages for stash1
